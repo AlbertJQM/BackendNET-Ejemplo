@@ -1,0 +1,6 @@
+@BackendNET_Ejemplo_HostAddress = http://localhost:5033
+
+GET {{BackendNET_Ejemplo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
