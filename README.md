@@ -11,3 +11,17 @@
 
 
 # DEPENDENCIAS
+
+- EntityFrameworkCore.
+
+- EntityFrameworkCore.Tools.
+
+- Pomelo.EntityFrameworkCore.MySQL.
+
+Ver compatibilidad: https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql
+
+Dependencia: https://www.nuget.org/packages/Pomelo.EntityFrameworkCore.MySql/
+
+# Datos extra
+
+- Cadena de conexion: "Server=localhost;Database=DBEjemplo;Uid=root;Pwd=muyiga128"
